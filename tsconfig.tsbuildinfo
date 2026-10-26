@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/OwnerFilter.tsx","./src/components/PhaseCard.tsx","./src/data/plan.ts","./src/hooks/useChecked.ts","./vite.config.ts"],"version":"5.9.3"}
